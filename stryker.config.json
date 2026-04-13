@@ -1,0 +1,6 @@
+{
+  "testRunner": "jest",
+  "reporters": ["clear-text"],
+  "coverageAnalysis": "perTest",
+  "mutate": ["stack.js"]
+}
