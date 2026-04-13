@@ -40,3 +40,7 @@
 1. `npm test` — all tests pass
 2. `npm run test:coverage` — 100% coverage on all metrics
 3. `npm run mutate` — 100% mutation score (no surviving mutants)
+
+## After Completing a Task
+- After every task is done, ask the user: "Do you want to commit and push these changes?"
+- Wait for confirmation before running `git add`, `git commit`, and `git push`
